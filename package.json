@@ -1,0 +1,23 @@
+{
+  "name": "@anywhichway/gravatar-display",
+  "version": "0.0.1",
+  "description": "A web component for loading and disolaying Gravatars",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anywhichway/gravatar-display.git"
+  },
+  "keywords": [
+    "Gravatar",
+    "mention"
+  ],
+  "author": "Simon Y. Blackwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anywhichway/gravatar-display/issues"
+  },
+  "homepage": "https://github.com/anywhichway/gravatar-display#readme"
+}
